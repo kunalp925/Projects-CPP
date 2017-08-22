@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  CS210_Labs
 //
 //  Created by Kunal Patel on 8/21/17.
 //  Copyright © 2017 Kunal Patel. All rights reserved.
